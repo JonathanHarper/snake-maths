@@ -1,6 +1,6 @@
 # Snake Maths  
 
-Iteration of the popular game Snake, with an Mathematical educational twist; designed as a teaching aid for children in primary education.  
+Iteration of the popular game Snake, with a Mathematical educational twist; designed as a teaching aid for children in primary education.  
   
 Developed for A-Level Computer Science, achieved 100% overall grade.  
   
