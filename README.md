@@ -2,7 +2,7 @@
 
 Iteration of the popular game Snake, with a Mathematical educational twist; designed as a teaching aid for children in primary education.  
   
-Developed for A-Level Computer Science, achieved 100% overall grade.  
+Developed for A-Level Computer Science (2014/15), achieved 100% overall grade.  
   
 Snake.jar is an executable which can be run, 3 .dat files are made upon first execution.
 
